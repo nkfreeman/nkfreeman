@@ -2,7 +2,7 @@
 ## Hi there 👋,           
 I'm Nick Freeman, PhD, an Associate Professor of Operations Management at the Univeristy of Alabama. I also serve as a co-coordinator for the Master of Science in Business Analytics program in the Culverhouse College of Business (https://manderson.culverhouse.ua.edu/programs/specialized-masters/business-analytics/). You can email me using the Gmail badge below.
 
-[![Gmail Badge](https://img.shields.io/badge/-nkfreeman@cba.ua.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nkfreeman@cba.ua.edu)](mailto:nkfreeman@cba.ua.edu)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:freem028@ua.edu)
 
 ---
 ![Nicks's github stats](https://github-readme-stats.vercel.app/api?username=nkfreeman&show_icons=true)
